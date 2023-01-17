@@ -1,0 +1,23 @@
+/* body {
+  background-color: red;
+} */
+
+h2 {
+  color: pink;
+}
+.destiny {
+  color: green;
+}
+
+#kunle {
+  color: hsl(233, 80%, 20%)
+}
+
+.flexbox {
+  display: flex;
+  justify-content: end;
+}
+
+a {
+  text-decoration: none;
+}
